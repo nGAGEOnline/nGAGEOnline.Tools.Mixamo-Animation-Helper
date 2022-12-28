@@ -1,0 +1,16 @@
+{
+    "name": "nGAGEOnline.Tools.Mixamo-Animation-Helper",
+    "rootNamespace": "nGAGEOnline.Tools.MixamoAnimationHelper",
+    "references": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
